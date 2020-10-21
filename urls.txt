@@ -1,0 +1,85 @@
+#    __ __ ____ ____ 
+
+#   /  (  / ___(    \
+
+#  (  O )(\___ \) D (
+
+#   \__(__(____(____/
+
+#
+
+#  Title: oisd_dbl
+
+#  Entries: 1029165
+
+#  TimeUpdated: Sep 30th 2020 12:44 CEST
+
+#  Maintainer: sjhgvr
+
+#  Expires: 1 day (update frequency)
+
+#  Homepage: https://oisd.nl
+
+
+
+0--e.info
+
+0-0-----------------------------------------------------------0.com
+
+0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+
+0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+
+0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+
+0-0-0-0-0.cn.com
+
+0-0-0-0go.sxn.us
+
+0-100-pool.coinlab.biz
+
+0-100.coinlab.biz
+
+0-100pool.coinlab.biz
+
+0-168.com
+
+0-24bpautomentes.hu
+
+0-2u.com
+
+0-800-email.com
+
+0-as69vh7k2.biz
+
+0-days.net
+
+0-google.com
+
+0.adnxs.com
+
+0.adx1.com
+
+0.affex.org
+
+0.afs.googleadservices.com
+
+0.bigclicker.me
+
+0.clickjump.biz
+
+0.clickpush.biz
+
+0.facebook.cm
+
+0.facebook.com.webproxy.us.com
+
+0.fecebook.com
+
+0.fls.doubleclick.net
+
+
+
+0.fres-news.com
+
+0.gr8.com

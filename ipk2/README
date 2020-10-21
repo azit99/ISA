@@ -1,0 +1,45 @@
+# IPK Projekt2 - Sniffer paketov   2019/2020
+### Adam Žitňanský - xzitna02
+
+### Zoznam odovzdaných súborov
+
+ipk-sniffer.c
+sniffer.h
+Makefile
+README
+manual.pdf
+
+
+Cielom projektu je implenetácia jednoduchého analyzátoru paketov.
+
+### Podpora protokolov
+
+-Z hladiska linkovej vrstvy - Ethernet + Linux cooked header
+-Z haldiska sieťovej vrstvy- IP (v4 aj v6)
+-Z haldiska trasportnej vrstvy TCP a UDP
+
+### Výstup programu
+
+ČAS SOURCE_IP: SOURCE_PORT > DEST_IP:DEST_PORT
+
+počet_vypísaných_bajtov:  výpis_bajtov_hexa výpis_bajtov_ASCII
+
+
+### Preklad
+S použitím GNU make:
+```
+$ make
+```
+
+## Príklady Spustenia
+
+Zachytávanie 1 UDP alebo TCP paketu nad rozhraním INTERFACE na všetkých portoch
+```
+$ ./ipk-sniffer -i INTERFACE
+```
+
+#### Ďalšie voľby
++ -n COUNT : bude bežať kým zachytí COUNT paketov
++ -p PORT : bude odchytávať len pakety ktoré majú source alebo destination port == PORT
++ -u alebo --udp : bude odchytávať iba UDP pakety
++ -t alebo --tcp :  bude odchytávať iba TCP pakety 
